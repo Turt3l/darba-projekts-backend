@@ -1,0 +1,12 @@
+{
+  "include": ["./src/**/*"],
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "allowJs": true,
+    "target": "ES2017",
+    "module": "ES2022",
+    "noImplicitAny": true,
+    "esModuleInterop": true
+  }
+}
